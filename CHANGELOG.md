@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.17.0](https://github.com/WordPress/presence-api/compare/v0.16.1...v0.17.0) (2026-10-08)
+
+
+### Features
+
+* let a network switch off the network admin screens ([#788](https://github.com/WordPress/presence-api/issues/788)) ([70d14aa](https://github.com/WordPress/presence-api/commit/70d14aaf489a4389473ccaa419f86dbfa09f3dd5))
+
 ## [0.16.1](https://github.com/WordPress/presence-api/compare/v0.16.0...v0.16.1) (2026-10-08)
 
 
